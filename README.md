@@ -3,7 +3,7 @@
 
 ## 由于直接 Google 搜索到的花云机场地址过于杂乱，在此记录当前的官网地址：
 
-## **官网地址：[flowercloud.com](https://api-flowercloud.com)**
+## **官网地址：[flowercloud](https://api-flowercloud.com/aff.php?aff=20445)**
 
 ## 花云机场（FlowerCloud），自2021年起致力于提供专业的翻墙服务。以全IEPL专线节点和对SS/SSR及Trojan协议的支持著称，花云机场为用户提供了高质量的网络加速体验。该平台深受重度翻墙爱好者的喜爱，凭借其卓越的稳定性在用户中建立了良好的口碑。
 
